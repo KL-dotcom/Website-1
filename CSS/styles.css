@@ -1,0 +1,149 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+color: #40514E;
+}
+
+h1 {
+
+  width: 20%;
+  margin: 50px auto 0 auto;
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 562.56%;
+  color: #66BFBF;
+
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+hr {
+
+  border: 6px dotted #EAF6F6;
+   border-style: none none dotted;
+   color: #fff;
+   background-color: #fff;
+   width: 4%;
+   margin: 100px auto;
+}
+
+p{
+  line-height: 2;
+}
+
+.top-container {
+    background-color: #EAF6F6;
+    position: relative;
+    padding-top: 100px;
+}
+
+.profile {
+  margin-top: 70px;
+  margin-bottom: 70px;
+}
+
+.top-cloud {
+position: absolute;
+right: 300px;
+top: 40px;
+}
+
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+
+}
+
+.middlecontainer {
+margin: 100px 0;
+
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+
+
+}
+
+.person-coding {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.veggie-gif {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.contact-message {
+  width: 30%;
+  margin: 40px auto 60px;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+padding: 50px 0 20px;
+}
+
+
+.copywrite {
+  color: #EAF6F6;
+font-size: 0.75rem;
+padding: 20px 0;
+
+}
+
+.BUTTON_JHL {
+border-radius: 20px;
+color: #FFFFFF;
+font-family: 'Montserrat', sans-serif;
+font-size: 40px;
+font-weight: 100;
+padding: 40px;
+background-color: #11999E;
+text-decoration: none;
+display: inline-block;
+cursor: pointer;
+margin-bottom: 50px;
+margin-top: 30px;
+}
+
+.BUTTON_JHL:hover {
+background: #2bc4ad;
+border: solid #11999E 1px;
+border-radius: 20px;
+text-decoration: none;
+}
